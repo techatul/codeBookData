@@ -17,8 +17,8 @@
     "url": "https://github.com/techatul/codeBookData/issues"
   },
   "homepage": "https://github.com/techatul/codeBookData#readme",
-  "description": "",
-  "dependencies": {
-    "json-server": "^1.0.0-beta.3"
-  }
+  "devDependencies": {
+    "json-server": "0.17.4"
+  },
+  "description": ""
 }
